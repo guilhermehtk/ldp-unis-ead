@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 def inverte_frase(frase):
   frase_splitted = frase.split()
   arr_inverted = []
